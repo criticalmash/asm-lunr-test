@@ -11,7 +11,7 @@ function makeSearch(queryString){
   var count = results.length;
   var page = results.slice(0,resultsPerPage);
   var pageCount = Math.ceil(count/resultsPerPage);
-  console.log(page);
+  console.log(results);
 
   // clear any old results
   var results = $('#results');
@@ -23,7 +23,38 @@ function makeSearch(queryString){
     var meta = files[key];
     var link = $('<p><a href="' + result.ref + '">' + meta.title + '</a></p>');
     results.append(link);
+    var beginMatch = getFirstOccuranceOfTerm(result);
+    var start = beginMatch - 50;
+    var end = beginMatch + 150;
+    var summary = $('<p>' + beginMatch + " -- " + meta.body.substring(start, end) + '</p>');
+
+    results.append(summary);
   };
+}
+
+/**
+ * so we can reverse sort by number instead of by alpha
+ * @param  {[type]} a [description]
+ * @param  {[type]} b [description]
+ * @return {[type]}   [description]
+ */
+function compareNumbersReverse(a, b) {
+  return b - a;
+}
+
+/**
+ * getFirstOccuranceOfTerm inspects a result item and get the first
+ * occurance of a search term in the body.
+ * @param  {Object} result    A result item
+ * @return {Interger}         location of terms' first appearance
+ */
+function getFirstOccuranceOfTerm(result){
+  var metadata = result.matchData.metadata;
+  var first = [];
+  for (var term in metadata) {
+    first.push(metadata[term].body.position[0][0]);
+  }
+  return first.sort(compareNumbersReverse).pop()
 }
 
 function loadIndex () {
