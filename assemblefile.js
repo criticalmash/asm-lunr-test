@@ -14,6 +14,8 @@ var app = assemble();
 app.use(watch());
 
 
+app.helper('midden', midden(true));
+
 /**
  *  Configure base-search to use lunr and custom indexer
  */

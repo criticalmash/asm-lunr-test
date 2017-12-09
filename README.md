@@ -49,6 +49,8 @@ Clone repo and cd into it
 
 `assemble` builds the site and launches it in your browser.
 
+## About the content
 
+The sample content is a selection of astronomical articles pulled from Wikipedia. I only copied enough content from each article to give me a large amount to search.
 
 
