@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{title}}</title>
+    <!-- find me in node_modules/midden/dist/styles -->
+    {{!-- <link rel="stylesheet" href="/midden.css"> --}}
+  </head>
+  <body>
+    <nav>
+      <a href="/">Home</a>
+    </nav>
+    <h1>{{title}}</h1>
+    <article class='main-content'>
+      {% body %}
+    </article>
+
+    {{!-- {{midden "view.data"}} --}}
+    
+    <!-- find me in node_modules/midden/dist/js -->
+    {{!-- <script src="/midden-client.js"></script> --}}
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.js"></script>
+    <script src="https://unpkg.com/lunr/lunr.js"></script>
+    <script src="/js/search-client.js"></script>
+  </body>
+</html>

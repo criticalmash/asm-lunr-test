@@ -1,0 +1,21 @@
+---
+title: Earth
+---
+# Earth
+
+From Wikipedia, the free encyclopedia
+
+Earth is the third planet from the Sun and the only object in the Universe known to harbor life. According to radiometric dating and other sources of evidence, Earth formed over 4 billion years ago.[24][25][26] Earth's gravity interacts with other objects in space, especially the Sun and the Moon, Earth's only natural satellite. Earth revolves around the Sun in 365.26 days, a period known as an Earth year. During this time, Earth rotates about its axis about 366.26 times.[n 5]
+
+Earth's axis of rotation is tilted, producing seasonal variations on the planet's surface.[27] The gravitational interaction between the Earth and Moon causes ocean tides, stabilizes the Earth's orientation on its axis, and gradually slows its rotation.[28] Earth is the densest planet in the Solar System and the largest of the four terrestrial planets.
+
+Earth's lithosphere is divided into several rigid tectonic plates that migrate across the surface over periods of many millions of years. About 71% of Earth's surface is covered with water, mostly by oceans.[29] The remaining 29% is land consisting of continents and islands that together have many lakes, rivers and other sources of water that contribute to the hydrosphere. The majority of Earth's polar regions are covered in ice, including the Antarctic ice sheet and the sea ice of the Arctic ice pack. Earth's interior remains active with a solid iron inner core, a liquid outer core that generates the Earth's magnetic field, and a convecting mantle that drives plate tectonics.
+
+Within the first billion years of Earth's history, life appeared in the oceans and began to affect the Earth's atmosphere and surface, leading to the proliferation of aerobic and anaerobic organisms. Some geological evidence indicates that life may have arisen as much as 4.1 billion years ago. Since then, the combination of Earth's distance from the Sun, physical properties, and geological history have allowed life to evolve and thrive.[30][31] In the history of the Earth, biodiversity has gone through long periods of expansion, occasionally punctuated by mass extinction events. Over 99% of all species[32] that ever lived on Earth are extinct.[33][34] Estimates of the number of species on Earth today vary widely;[35][36][37] most species have not been described.[38] Over 7.4 billion humans live on Earth and depend on its biosphere and natural resources for their survival. Humans have developed diverse societies and cultures; politically, the world has about 200 sovereign states.
+
+# Name and etymology
+
+The modern English word Earth developed from a wide variety of Middle English forms,[n 6] which derived from an Old English noun most often spelled eorðe.[39] It has cognates in every Germanic language, and their proto-Germanic root has been reconstructed as *erþō. In its earliest appearances, eorðe was already being used to translate the many senses of Latin terra and Greek γῆ (gē): the ground,[n 7] its soil,[n 8] dry land,[n 9] the human world,[n 10] the surface of the world (including the sea),[n 11] and the globe itself.[n 12] As with Terra and Gaia, Earth was a personified goddess in Germanic paganism: the Angles were listed by Tacitus as among the devotees of Nerthus,[48] and later Norse mythology included Jörð, a giantess often given as the mother of Thor.[49]
+
+Originally, earth was written in lowercase, and from early Middle English, its definite sense as "the globe" was expressed as the earth. By Early Modern English, many nouns were capitalized, and the earth became (and often remained) the Earth, particularly when referenced along with other heavenly bodies. More recently, the name is sometimes simply given as Earth, by analogy with the names of the other planets.[39] House styles now vary: Oxford spelling recognizes the lowercase form as the most common, with the capitalized form an acceptable variant. Another convention capitalizes "Earth" when appearing as a name (e.g. "Earth's atmosphere") but writes it in lowercase when preceded by the (e.g. "the atmosphere of the earth"). It almost always appears in lowercase in colloquial expressions such as "what on earth are you doing?"[50]
+

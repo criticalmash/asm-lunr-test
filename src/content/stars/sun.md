@@ -1,0 +1,43 @@
+---
+title: Sun
+---
+
+# The Sun
+
+From Wikipedia, the free encyclopedia
+
+The Sun is the star at the center of the Solar System. It is a nearly perfect sphere of hot plasma,[14][15] with internal convective motion that generates a magnetic field via a dynamo process.[16] It is by far the most important source of energy for life on Earth. Its diameter is about 1.39 million kilometers, i.e. 109 times that of Earth, and its mass is about 330,000 times that of Earth, accounting for about 99.86% of the total mass of the Solar System.[17] About three quarters of the Sun's mass consists of hydrogen (~73%); the rest is mostly helium (~25%), with much smaller quantities of heavier elements, including oxygen, carbon, neon, and iron.[18]
+
+The Sun is a G-type main-sequence star (G2V) based on its spectral class. As such, it is informally referred to as a yellow dwarf. It formed approximately 4.6 billion[a][10][19] years ago from the gravitational collapse of matter within a region of a large molecular cloud. Most of this matter gathered in the center, whereas the rest flattened into an orbiting disk that became the Solar System. The central mass became so hot and dense that it eventually initiated nuclear fusion in its core. It is thought that almost all stars form by this process.
+
+The Sun is roughly middle-aged; it has not changed dramatically for more than four billion[a] years, and will remain fairly stable for more than another five billion years. After hydrogen fusion in its core has diminished to the point at which it is no longer in hydrostatic equilibrium, the core of the Sun will experience a marked increase in density and temperature while its outer layers expand to eventually become a red giant. It is calculated that the Sun will become sufficiently large to engulf the current orbits of Mercury and Venus, and render Earth uninhabitable.
+
+The enormous effect of the Sun on Earth has been recognized since prehistoric times, and the Sun has been regarded by some cultures as a deity. The synodic rotation of Earth and its orbit around the Sun are the basis of solar calendars, one of which is the predominant calendar in use today.
+
+# Name and etymology
+
+The English proper name Sun developed from Old English sunne and may be related to south. Cognates to English sun appear in other Germanic languages, including Old Frisian sunne, sonne, Old Saxon sunna, Middle Dutch sonne, modern Dutch zon, Old High German sunna, modern German Sonne, Old Norse sunna, and Gothic sunnō. All Germanic terms for the Sun stem from Proto-Germanic *sunnōn.[20][21]
+
+The English weekday name Sunday stems from Old English (Sunnandæg; "Sun's day", from before 700) and is ultimately a result of a Germanic interpretation of Latin dies solis, itself a translation of the Greek ἡμέρα ἡλίου (hēméra hēlíou).[22] The Latin name for the Sun, Sol, is not common in general English language use; the adjectival form is the related word solar.[23][24] The term sol is also used by planetary astronomers to refer to the duration of a solar day on another planet, such as Mars.[25] A mean Earth solar day is approximately 24 hours, whereas a mean Martian 'sol' is 24 hours, 39 minutes, and 35.244 seconds.[26]
+
+## Religious aspects
+
+Solar deities play a major role in many world religions and mythologies.[27] The ancient Sumerians believed that the sun was Utu,[28][29] the god of justice and twin brother of Inanna, the Queen of Heaven,[28] who was identified as the planet Venus.[29] Later, Utu was identified with the East Semitic god Shamash.[28][29] Utu was regarded as a helper-deity, who aided those in distress,[28] and, in iconography, he is usually portrayed with a long beard and clutching a saw,[28] which represented his role as the dispenser of justice.[28]
+
+From at least the 4th Dynasty of Ancient Egypt, the Sun was worshipped as the god Ra, portrayed as a falcon-headed divinity surmounted by the solar disk, and surrounded by a serpent. In the New Empire period, the Sun became identified with the dung beetle, whose spherical ball of dung was identified with the Sun. In the form of the Sun disc Aten, the Sun had a brief resurgence during the Amarna Period when it again became the preeminent, if not only, divinity for the Pharaoh Akhenaton.[30][31]
+
+In Proto-Indo-European religion, the sun was personified as the goddess *Seh2ul.[32][33][21] Derivatives of this goddess in Indo-European languages include the Old Norse Sól, Sanskrit Surya, Gaulish Sulis, Lithuanian Saulė, and Slavic Solntse.[21] In ancient Greek religion, the sun deity was the male god Helios,[32] but traces of an earlier female solar deity are preserved in Helen of Troy.[32] In later times, Helios was syncretized with Apollo.[34]
+
+In the Bible, Malachi 4:2 mentions the "Sun of Righteousness" (sometimes translated as the "Sun of Justice"),[35] which some Christians have interpreted as a reference to the Messiah (Christ).[36] In ancient Roman culture, Sunday was the day of the Sun god. It was adopted as the Sabbath day by Christians who did not have a Jewish background. The symbol of light was a pagan device adopted by Christians, and perhaps the most important one that did not come from Jewish traditions. In paganism, the Sun was a source of life, giving warmth and illumination to mankind. It was the center of a popular cult among Romans, who would stand at dawn to catch the first rays of sunshine as they prayed. The celebration of the winter solstice (which influenced Christmas) was part of the Roman cult of the unconquered Sun (Sol Invictus). Christian churches were built with an orientation so that the congregation faced toward the sunrise in the East.[37]
+
+Tonatiuh, the Aztec god of the sun, was usually depicted holding arrows and a shield[38] and was closely associated with the practice of human sacrifice.[38] The sun goddess Amaterasu is the most important deity in the Shinto religion,[39][40] and she is believed to be the direct ancestor of all Japanese emperors.[39]
+
+# Characteristics
+
+The Sun is a G-type main-sequence star that comprises about 99.86% of the mass of the Solar System. The Sun has an absolute magnitude of +4.83, estimated to be brighter than about 85% of the stars in the Milky Way, most of which are red dwarfs.[41][42] The Sun is a Population I, or heavy-element-rich,[b] star.[43] The formation of the Sun may have been triggered by shockwaves from one or more nearby supernovae.[44] This is suggested by a high abundance of heavy elements in the Solar System, such as gold and uranium, relative to the abundances of these elements in so-called Population II, heavy-element-poor, stars. The heavy elements could most plausibly have been produced by endothermic nuclear reactions during a supernova, or by transmutation through neutron absorption within a massive second-generation star.[43]
+
+The Sun is by far the brightest object in the Earth's sky, with an apparent magnitude of −26.74.[45][46] This is about 13 billion times brighter than the next brightest star, Sirius, which has an apparent magnitude of −1.46. The mean distance of the Sun's center to Earth's center is approximately 1 astronomical unit (about 150,000,000 km; 93,000,000 mi), though the distance varies as Earth moves from perihelion in January to aphelion in July.[47] At this average distance, light travels from the Sun's horizon to Earth's horizon in about 8 minutes and 19 seconds, while light from the closest points of the Sun and Earth takes about two seconds less. The energy of this sunlight supports almost all life[c] on Earth by photosynthesis,[48] and drives Earth's climate and weather.
+
+The Sun does not have a definite boundary, but its density decreases exponentially with increasing height above the photosphere.[49] For the purpose of measurement, however, the Sun's radius is considered to be the distance from its center to the edge of the photosphere, the apparent visible surface of the Sun.[50] By this measure, the Sun is a near-perfect sphere with an oblateness estimated at about 9 millionths,[51] which means that its polar diameter differs from its equatorial diameter by only 10 kilometres (6.2 mi).[52] The tidal effect of the planets is weak and does not significantly affect the shape of the Sun.[53] The Sun rotates faster at its equator than at its poles. This differential rotation is caused by convective motion due to heat transport and the Coriolis force due to the Sun's rotation. In a frame of reference defined by the stars, the rotational period is approximately 25.6 days at the equator and 33.5 days at the poles. Viewed from Earth as it orbits the Sun, the apparent rotational period of the Sun at its equator is about 28 days.[54]
+
+

@@ -1,0 +1,37 @@
+{
+  "name": "asm-lunr-test",
+  "version": "1.0.0",
+  "description": "Experimental integration of lunr.js inside an Assemble.js project",
+  "main": "assemble",
+  "scripts": {
+    "test": "mocha tests/*-spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/criticalmash/asm-lunr-test.git"
+  },
+  "keywords": [
+    "lunr",
+    "assemblejs"
+  ],
+  "author": "John O'Donnell <john@criticalmash.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/criticalmash/asm-lunr-test/issues"
+  },
+  "homepage": "https://github.com/criticalmash/asm-lunr-test#readme",
+  "dependencies": {
+    "assemble": "^0.24.3",
+    "assemble-midden": "^0.4.0",
+    "base-search": "^0.1.1",
+    "base-watch": "^0.1.3",
+    "browser-sync": "^2.18.13",
+    "cheerio": "^1.0.0-rc.2",
+    "fs-exists-sync": "^0.1.0",
+    "gulp-extname": "^0.2.2",
+    "jquery": "^3.2.1",
+    "lunr": "^2.1.4",
+    "write": "^1.0.3",
+    "yargs-parser": "^8.0.0"
+  }
+}
